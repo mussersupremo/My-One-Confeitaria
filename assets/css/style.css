@@ -78,8 +78,27 @@
     padding: 20px;
 }
 
+.cria {
+    padding: 20px;
+    background-color: rgb(161, 71, 147);
+}
+
 .produtos {
-    
+    padding: 20px;
+    background-color:blueviolet ;
+}
+
+.triade {
+    padding: 20px;
+}
+
+.p20 {
+    padding: 20px;
+}
+
+.text-produtos {
+    background-color: rgb(161, 71, 147);
+    padding: 20px;
 }
 
 p {
