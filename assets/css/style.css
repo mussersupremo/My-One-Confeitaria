@@ -1,0 +1,90 @@
+.menu li {
+    display: inline;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.menu {
+    text-align: center;
+    padding: 10px;
+    background-color: black;
+}
+
+.menu a {
+    color: rgb(213, 102, 236);
+    text-decoration: none;
+}
+
+.menu a:hover {
+    color: darkmagenta;
+}
+
+.myone {
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+.logo {
+    padding: 15px;
+    background-color:darkorchid;
+}
+
+.font-and-color {
+    background-color: aliceblue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+.ela1 {
+    display: inline;
+    padding: 20px;
+
+}
+
+.ela2 {
+    display: inline;
+    padding: 20px;
+
+
+}
+
+.ela3 {
+    display: inline;
+    padding: 20px;
+
+}
+
+.font-and-color p {
+    font-size: 20px;
+}
+
+.pitty {
+    padding: 20px;
+    background-color: rgb(161, 71, 147);
+}
+
+.empre {
+    padding: 20px;
+    background-color: white;
+}
+
+.titulo-empre {
+    padding: 20px;
+    background-color: blueviolet;
+}
+
+
+.produtos {
+
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+}
+
+h2{
+    text-align: center;
+}
+
